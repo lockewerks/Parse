@@ -96,4 +96,4 @@ CMakeLists.txt
 
 ## License
 
-Proprietary. Locke Werks. All rights reserved. You are not going to fork this.
+MIT. See `LICENSE.txt`. Copyright Locke Werks, 2026.
