@@ -104,7 +104,7 @@ void AppController::buildTrayMenu() {
     auto* about = m_trayMenu->addAction(QStringLiteral("About Parse"));
     connect(about, &QAction::triggered, this, [] {
         QMessageBox::information(nullptr, QStringLiteral("Parse"),
-            QStringLiteral("Parse 0.1.0\nLocke Werks"));
+            QStringLiteral("Parse 1.0.0\nLocke Werks"));
     });
 
     auto* quit = m_trayMenu->addAction(QStringLiteral("Quit"));

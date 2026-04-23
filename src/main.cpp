@@ -16,7 +16,7 @@ int main(int argc, char* argv[]) {
     QApplication app(argc, argv);
     QApplication::setApplicationName(QStringLiteral("Parse"));
     QApplication::setOrganizationName(QStringLiteral("Locke Werks"));
-    QApplication::setApplicationVersion(QStringLiteral("0.1.0"));
+    QApplication::setApplicationVersion(QStringLiteral("1.0.0"));
     QApplication::setQuitOnLastWindowClosed(false);
     QApplication::setStyle(QStyleFactory::create(QStringLiteral("Fusion")));
 
