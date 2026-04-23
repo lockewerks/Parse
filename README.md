@@ -96,4 +96,4 @@ CMakeLists.txt
 
 ## License
 
-MIT. See `LICENSE.txt`. Copyright Locke Werks, 2026.
+GPLv3. See `LICENSE.txt`. Copyright Locke Werks, 2026.
