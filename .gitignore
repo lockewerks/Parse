@@ -1,0 +1,14 @@
+build/
+out/
+.vs/
+.vscode/
+*.user
+CMakeSettings.json
+CMakeCache.txt
+CMakeFiles/
+*.exe
+*.pdb
+*.obj
+*.ilk
+%APPDATA%/Parse/
+.claude/
