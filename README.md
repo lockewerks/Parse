@@ -1,4 +1,18 @@
+<div align="center">
+
+<img src="assets/parse.ico" width="96" alt="Parse">
+
 # Parse
+
+**Press a hotkey, drag a rectangle, find out what the hell you are looking at.**
+
+[![release](https://img.shields.io/github/v/release/lockewerks/Parse?style=flat-square&color=d6262a)](https://github.com/lockewerks/Parse/releases)
+[![license](https://img.shields.io/badge/license-GPLv3-d6262a?style=flat-square)](LICENSE)
+![platform](https://img.shields.io/badge/platform-Windows%2011%20%2F%20Qt%206-d6262a?style=flat-square)
+
+</div>
+
+---
 
 You are looking at something on screen. You are not sure what it is. Maybe it is a cryptic error message, maybe it is a chat your coworker sent that reads like a ransom note, maybe it is a dashboard with six overlapping labels. Parse is a Windows tray app that turns "what the hell is this" into a small popup that actually answers the question.
 
